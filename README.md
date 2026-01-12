@@ -1,62 +1,74 @@
-<div align="center">
-🌸 Personal Portfolio Website 🌸
-</div>
+# 🌸 Personal Portfolio Website 🌸
 
-A minimal, aesthetic personal portfolio website designed with soft pastel tones and smooth animations.  
-This project showcases my skills, projects, and contact details in a clean and visually pleasing layout.
+A soft, elegant, and visually pleasing personal portfolio website designed using pastel tones and smooth animations.  
+This project reflects a calm, modern, and creative UI while keeping the structure simple and beginner-friendly.
 
-✨ Features
+---
 
-• Elegant pastel color theme with a soft, modern aesthetic  
-• Smooth hover and transition effects  
-• Interactive navigation with subtle highlight animations  
-• Clean typography for better readability  
-• Fully responsive layout  
-• Simple and beginner-friendly code structure  
+## ✨ Overview
 
-🛠️ Built With
+This website is built to showcase my journey as a web developer through a clean layout, subtle hover effects, and a warm pastel color palette.  
+The design focuses on aesthetics, readability, and user experience while maintaining minimalism and smooth interactions.
 
-• HTML5  
-• CSS3  
-• Google Fonts  
-• CSS animations & transitions  
+---
 
-📁 Project Structure
+## 🌷 Features
 
-├── index.html  
-├── style.css  
-└── assets/ (images & icons if any)
+- Soft pastel (rose & warm beige) aesthetic theme  
+- Smooth hover and transition animations  
+- Elegant navigation with subtle highlight effects  
+- Clean and modern typography  
+- Responsive layout for different screen sizes  
+- Beginner-friendly and well-structured code  
 
-🚀 How to Use
+---
 
-1. Clone the repository  
-   git clone https://github.com/your-username/your-repo-name.git
+## 🎨 Design Philosophy
 
-2. Open the project folder  
-   cd your-repo-name
+The design is inspired by:
+- Calm pastel color palettes  
+- Soft, feminine, and aesthetic UI  
+- Minimal yet expressive layouts  
+- Smooth and gentle user interactions  
 
-3. Open `index.html` in your browser  
-   (or use Live Server in VS Code)
+Every element is designed to feel light, warm, and visually soothing.
 
-🎨 Theme Inspiration
+---
 
-The design focuses on:
-• Soft pastel aesthetics  
-• Clean layouts  
-• Minimal yet elegant UI  
-• Calm, rose-toned visuals  
+## 🛠️ Technologies Used
 
-📌 Purpose
+- **HTML5** – Structure  
+- **CSS3** – Styling & layout  
+- **Google Fonts** – Elegant typography  
+- **CSS Transitions & Animations** – Smooth UI effects  
+
+---
+
+## 📁 Project Structure
+├── index.html
+├── style.css
+└── assets/
+└── images 
+
+## 🎯 Purpose of This Project
 
 This project was created to:
-• Practice HTML & CSS  
-• Explore aesthetic UI design  
-• Build a personal portfolio website  
-• Improve front-end development skills  
+- Practice and improve HTML & CSS skills  
+- Explore aesthetic UI design  
+- Build a personal portfolio website  
+- Learn layout structuring and hover animations  
 
-💗 Author
+---
 
-Made with love by **Jui**  
-Aspiring Web Developer & Creative Learner
+## 💗 Author
 
-✨ Feel free to fork, explore, and customize!
+**Jui**  
+Aspiring Web Developer  
+Creative learner with a love for aesthetic web design  
+
+---
+
+## 🌸 Final Note
+
+This project reflects my learning journey and design interests.  
+Feel free to explore, fork, or customize it for your own use ✨
