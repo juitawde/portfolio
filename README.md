@@ -1,6 +1,4 @@
-<div align="center">
-# 🌸 Personal Portfolio Website 🌸
-</div>
+# 🌸 Personal Portfolio Website
 
 A soft, elegant, and visually pleasing personal portfolio website designed using pastel tones and smooth animations.  
 This project reflects a calm, modern, and creative UI while keeping the structure simple and beginner-friendly.
@@ -52,6 +50,7 @@ Every element is designed to feel light, warm, and visually soothing.
 ├── style.css
 └── assets/
 └── images 
+
 
 ## 💻 Images of the project
 
